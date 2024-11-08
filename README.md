@@ -12,7 +12,7 @@ The Streamlit interface provides a user-friendly platform for real-time predicti
 - BentoML: A powerful tool for packaging and deploying machine learning models as production-ready APIs. BentoML helps create reusable and scalable model-serving containers, ensuring fast and efficient deployment of the CO2 emission prediction model.
 
 ### Folder Structure and Descriptions
-  #### [Steps](#https://github.com/KalyanMarella/Vehicles_CO2_Emission/tree/main/steps):
+  #### [Steps](https://github.com/KalyanMarella/Vehicles_CO2_Emission/tree/main/steps):
   - This folder contains the individual steps of the machine learning pipeline. Each script is responsible for a specific task, such as data preprocessing, feature extraction, model training, and
     evaluation. By modularizing the workflow, these steps can be reused or modified independently in the pipeline.
   #### Pipelines:
