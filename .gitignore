@@ -1,0 +1,16 @@
+# Ignore virtual environment
+virtual_co2/
+.venv/
+venv/
+
+# Ignore ZenML files
+.zen/
+.zenml/
+.zen-workspace/
+
+# Ignore data, logs, and model files that are large or temporary
+data/
+logs/
+**/*.ckpt
+**/*.h5
+**/*.pkl
