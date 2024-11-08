@@ -15,12 +15,12 @@ The Streamlit interface provides a user-friendly platform for real-time predicti
   #### [Steps](https://github.com/KalyanMarella/Vehicles_CO2_Emission/tree/main/steps):
   - This folder contains the individual steps of the machine learning pipeline. Each script is responsible for a specific task, such as data preprocessing, feature extraction, model training, and
     evaluation. By modularizing the workflow, these steps can be reused or modified independently in the pipeline.
-  #### Pipelines:
+  #### [Pipelines](https://github.com/KalyanMarella/Vehicles_CO2_Emission/tree/main/pipelines):
   - Training Pipeline: This pipeline automates the training process, including data preprocessing, model selection, hyperparameter tuning, and model evaluation. It ensures that training is consistent,                 reproducible, and scalable using ZenML.
   - Inference Pipeline: Focused on handling incoming data for real-time predictions. This pipeline takes vehicle input data, processes it, and produces CO2 emission predictions. It's optimized for quick 
     response times and ease of deployment.
-  #### app.py:
+  #### [app.py](https://github.com/KalyanMarella/Vehicles_CO2_Emission/blob/main/app.py):
   - The Streamlit app resides here, providing a simple user interface for real-time predictions. Users can input vehicle details and receive CO2 emission predictions, with visualizations to enha
     the user experience.
-  #### Notebooks:
+  #### [Notebooks](https://github.com/KalyanMarella/Vehicles_CO2_Emission/tree/main/notebooks):
   - This folder contains Jupyter notebooks used for experimentation, data analysis, and visualizations. It helps document the process and test ideas before implementing them in the main pipeline.
