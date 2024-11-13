@@ -27,3 +27,9 @@ The Streamlit interface provides a user-friendly platform for real-time predicti
 
 ### Here is the demo of project interface and model predictions
 ![Video Preview](notebooks/co2_emission-ezgif.com-video-to-gif-converter.gif)
+
+### Training Pipline
+!(notebooks/training_pipeline.png)
+
+### Inference Pipeline
+!(notebooks/inference_pipeline.png)
