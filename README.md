@@ -24,3 +24,6 @@ The Streamlit interface provides a user-friendly platform for real-time predicti
     the user experience.
   #### [Notebooks](https://github.com/KalyanMarella/Vehicles_CO2_Emission/tree/main/notebooks) :
   - This folder contains Jupyter notebooks used for experimentation, data analysis, and visualizations. It helps document the process and test ideas before implementing them in the main pipeline.
+
+### Here is the demo of project interface and model predictions
+![Video Preview](notebooks/co2_emission)
