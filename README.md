@@ -26,4 +26,4 @@ The Streamlit interface provides a user-friendly platform for real-time predicti
   - This folder contains Jupyter notebooks used for experimentation, data analysis, and visualizations. It helps document the process and test ideas before implementing them in the main pipeline.
 
 ### Here is the demo of project interface and model predictions
-![Video Preview](notebooks/co2_emission.mp4)
+![Video Preview](notebooks/co2_emission-ezgif.com-video-to-gif-converter.gif)
