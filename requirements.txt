@@ -12,7 +12,7 @@ python-dotenv
 rich
 scikit_learn
 scipy
-SQLAlchemy
+SQLAlchemy==2.0.36
 typing_extension
 zenml
 evidently
