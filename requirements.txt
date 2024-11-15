@@ -12,7 +12,6 @@ rich
 scikit_learn
 scipy
 SQLAlchemy
-typing_extension
 zenml
 evidently
 streamlit
