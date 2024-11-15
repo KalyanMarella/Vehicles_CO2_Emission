@@ -7,7 +7,6 @@ mlflow
 numpy
 pandas
 Pillow
-Pillow
 python-dotenv
 rich
 scikit_learn
