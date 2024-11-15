@@ -75,6 +75,5 @@ if st.sidebar.button("Submit"):
     prediction = get_prediction(data_after_scaling)
     
     if prediction is not None:
-        st.write("The CO2 Emission of the Vehicle with given parameters is:")
         if prediction is not None:
-            st.write("The CO2 Emission of the Vehicle with given parameters is:", prediction)
+            st.write("The CO2 Emission of the Vehicle with given parameters is:", prediction[0])
