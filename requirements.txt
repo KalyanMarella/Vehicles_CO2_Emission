@@ -13,7 +13,6 @@ rich
 scikit_learn
 scipy
 SQLAlchemy
-statsmodels
 typing_extension
 zenml
 evidently
