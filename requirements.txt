@@ -9,6 +9,7 @@ pandas
 Pillow
 Pillow
 python-dotenv
+python==3.10.15
 rich
 scikit_learn
 scipy
